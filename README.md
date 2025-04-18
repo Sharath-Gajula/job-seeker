@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo:
    ```sh
-  
+  https://github.com/Sharath-Gajula/job-seeker.git
    ```
 2. Install NPM packages:
    ```sh
